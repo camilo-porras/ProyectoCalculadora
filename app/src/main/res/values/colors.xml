@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Screen -->
+    <color name="screen_background">#FF000000</color>
+    <color name="primary_text">#FFFFFFFF</color>
+    <color name="secondary_text">#FF888888</color>
+    <color name="error_text">#8BC34A</color>
+
+    <!-- Buttons -->
+    <color name="number_button">#FF2A2928</color>
+    <color name="control_button">#FF5E5D59</color>
+    <color name="operator_button">#FFFFA70E</color>
+    <color name="history_button">#FF0000FF</color>
+</resources>

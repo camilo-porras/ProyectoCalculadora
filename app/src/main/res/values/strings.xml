@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">ProyectoCalculadora</string>
+
+    <!-- Operator buttons -->
+    <string name="add_symbol">+</string>
+    <string name="subtract_symbol">−</string>
+    <string name="multiply_symbol">×</string>
+    <string name="divide_symbol">÷</string>
+    <string name="percent_symbol">%</string>
+    <string name="equals_symbol">=</string>
+
+    <!-- Control buttons -->
+    <string name="clear_all">AC</string>
+    <string name="toggle_sign">⁺/₋</string>
+    <string name="backspace">≪</string>
+    <string name="decimal_separator">.</string>
+
+    <!-- Navigation and history -->
+    <string name="history_button_label">H</string>
+    <string name="history_title">Historial</string>
+    <string name="history_empty">Aún no hay operaciones</string>
+    <string name="history_entry_format">%1$s = %2$s</string>
+    <string name="back_description">Volver a la calculadora</string>
+
+    <!-- Errors -->
+    <string name="error_division_by_zero">No se puede dividir entre cero</string>
+    <string name="error_invalid_operation">Error en la operación</string>
+</resources>
